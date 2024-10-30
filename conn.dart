@@ -7,4 +7,9 @@ voidmain(){
   int sum=a+b;
   print($sum)
   //ml
+ 
+}
+voidmain(){
+ int name="kevin";
+  print("hello .$name");
 }
